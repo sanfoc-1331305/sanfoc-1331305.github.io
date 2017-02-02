@@ -1,0 +1,12 @@
+head{
+    margin-bottom: 10px;
+    border: solid 8px black;
+}
+body {
+    background-color: lightskyblue;
+    border: solid 10px black;
+}
+.field {
+    float: right;
+    background-color: orange;
+}
